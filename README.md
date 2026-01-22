@@ -1,2 +1,12 @@
 # PrevisaoPrecosImoveis
 Treinamento de um sistema de previsão de preço de imoveis utiliznado sklearn e tensorflow. Utilização de dados randomicos para o treinamento.
+
+
+
+Comando sugeridos
+
+py -3.10 -m venv venv  
+
+.\venv\Scripts\activate
+
+pip install -r requirements.txt
